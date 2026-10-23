@@ -1,0 +1,6 @@
+{
+  "name": "Calculator",
+  "description": "A sleek, minimalist calculator for everyday arithmetic with real-time preview, calculation history, and clean Material 3 design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
